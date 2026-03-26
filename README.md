@@ -1,4 +1,4 @@
-# CV Motion Tracking Pipeline
+# TrackSense- CV Motion Tracking Pipeline
 
 A real-time computer vision pipeline combining feature tracking, visual odometry, object detection, and motion segmentation.
 
